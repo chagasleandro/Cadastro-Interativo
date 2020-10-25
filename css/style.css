@@ -28,6 +28,15 @@
     display: flex;
 }
 
+.first-column {
+    text-align: center;
+    flex: 1 0 auto;
+}
+
+.second-column {
+    flex: 2 0 auto;
+}
+
 .list-social-media {
     display: flex;
 }
