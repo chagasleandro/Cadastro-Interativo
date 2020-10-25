@@ -58,10 +58,18 @@ body {
    color: #FFF;
    font-size: 10px;
    padding: 10px 50px;
+   cursor: pointer;
+   font-weight: bold;
 }
 
 .btn-primary {
     background-color: transparent;
+    border: 1px solid #FFF;
+}
+
+.btn-primary:hover {
+    background-color: #FFF;
+    color: #58af9b;
 }
 
 .first-content {
