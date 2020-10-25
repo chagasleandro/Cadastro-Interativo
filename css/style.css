@@ -2,12 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #ECF0F1;
 }
 
 .container {
     display: flex;
-    border: 2px solid red;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -21,7 +19,15 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    position: relative;
+}
+
+.content::before {
+    content: "";
+    position: absolute;
+    background-color: #58af9b;
+    width: 40%;
+    height: 100%;
 }
 
 .first-content {
@@ -31,6 +37,7 @@
 .first-column {
     text-align: center;
     flex: 1 0 auto;
+    z-index: 10;
 }
 
 .second-column {
