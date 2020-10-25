@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
 }
 
 .container {
@@ -9,6 +14,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: #ecf0f1;
 }
 
 .content {
@@ -16,7 +22,6 @@
     border-radius: 15px;
     width: 80%;
     height: 50%;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
@@ -28,6 +33,35 @@
     background-color: #58af9b;
     width: 40%;
     height: 100%;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.title-primary {
+    color: #FFF;
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 300;
+    color: #FFF;
+    line-height:30px;
+}
+
+.btn {
+   border-radius: 15px;
+   text-transform: uppercase;
+   color: #FFF;
+   font-size: 10px;
+   padding: 10px 50px;
+}
+
+.btn-primary {
+    background-color: transparent;
 }
 
 .first-content {
