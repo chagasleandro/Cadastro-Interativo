@@ -1,7 +1,0 @@
-.container {
-    display: flex;
-    border: 2px solid red;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
