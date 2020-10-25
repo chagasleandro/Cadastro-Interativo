@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #ECF0F1;
 }
 
 .container {
@@ -10,4 +11,33 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
+
+.content {
+    background-color: #FFF;
+    border-radius: 15px;
+    width: 80%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.first-content {
+    display: flex;
+}
+
+.list-social-media {
+    display: flex;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.second-content {
+   position: absolute;
+   display: none; 
 }
