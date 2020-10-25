@@ -1,12 +1,12 @@
 # Cadastro-Interativo
-Nesta explico e desenvolvo uma tela de login e cadastro com animação CSS, utilizando apenas HTML e CSS.
+1-Nesta explico e desenvolvo uma tela de login e cadastro com animação CSS, utilizando apenas HTML e CSS.
 
-DEMONSTRAÇÃO da Tela interativa;
+2-DEMONSTRAÇÃO da Tela interativa;
 
-Explicação da estruturação do HTML da nossa Tela Interativa;
+3-Explicação da estruturação do HTML da nossa Tela Interativa;
 
-Início da estruturação do HTML no Visual Studio Code;
+4-Início da estruturação do HTML no Visual Studio Code;
 
-Explicação sobre placeholder;
+5-Explicação sobre placeholder;
 
-Início da segunda estruturação de conteúdo da nossa Tela;
+6-Início da segunda estruturação de conteúdo da nossa Tela;
