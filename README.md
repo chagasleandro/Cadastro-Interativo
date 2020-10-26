@@ -10,3 +10,8 @@
 5-Explicação sobre placeholder;
 
 6-Início da segunda estruturação de conteúdo da nossa Tela;
+
+
+Contact
+
+Made by Leandro Chagas!
