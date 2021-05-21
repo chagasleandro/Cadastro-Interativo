@@ -1,5 +1,5 @@
 # Cadastro-Interativo
-1-Nesta explico e desenvolvo uma tela de login e cadastro com animação CSS, utilizando apenas HTML e CSS.
+1-Neste projeto eu desenvolvo uma tela de login e cadastro com animação CSS, utilizando apenas HTML e CSS.
 
 2-DEMONSTRAÇÃO da Tela interativa;
 
